@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aberuu
 - 👀 I’m interested about coding
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me same
 
